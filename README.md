@@ -56,7 +56,7 @@ Here are a few representative projects that showcase my skills:
 
 ## 📫 Connect with Me
 
-* **LinkedIn**: [https://www.linkedin.com/in/omar-alchaz/]
+* **LinkedIn**: https://www.linkedin.com/in/omar-alchaz/
 * **GitHub**: github.com/OmarAlhaz
 
 Let’s build interesting things together! 🚀
