@@ -1,8 +1,5 @@
 # 👋 Hi, I’m Omar Alhaz
 
-**Data Engineer | Python / PySpark | Machine Learning Enthusiast**
-
----
 
 # 💫 About Me:
 💻 I help businesses unlock insights as a Data Engineer<br>👨‍💻 Building data pipelines, cleaning & transforming big datasets, and developing forecasting & analytics models<br>🏋️‍♂️ Gym goer and martial arts enthusiast<br>🌍 Arabman in Greece<br><br>🔔 Follow my journey in data, Python, PySpark, and machine learning
