@@ -25,11 +25,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=OmarAlhaz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAlhaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 📫 Connect with Me
-
-* **LinkedIn**: https://www.linkedin.com/in/omar-alchaz/
-* **GitHub**: github.com/OmarAlhaz
-
-Let’s build interesting things together! 🚀
-
