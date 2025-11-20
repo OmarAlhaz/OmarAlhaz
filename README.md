@@ -2,8 +2,6 @@
 
 **Data Engineer | Python / PySpark | Machine Learning Enthusiast**
 
-[Optional: Add your personal tagline or motto, e.g. “Turning raw data into business insights”]
-
 ---
 
 ## 🔭 What I Do
