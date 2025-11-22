@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Omar Alhaz
+# 👋 Hi,I’m Omar Alhaz
 
 
 # 💫 About Me:
