@@ -5,7 +5,7 @@
 
 
 # 💻 Tech Stack:
-![Azure](https://img.shields.io/badge/azure-%230072C6.svghttps://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
