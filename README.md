@@ -1,4 +1,4 @@
-![](banner.png)
+![](github-header-banner.png)
 
 # 👋 Hi, I’m Omar Alhaz
 
