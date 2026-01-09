@@ -4,7 +4,7 @@
 💻 I help businesses unlock insights as a Data Engineer<br>👨‍💻 Building data pipelines, cleaning & transforming big datasets, and developing forecasting & analytics models<br>🏋️‍♂️ Gym goer and martial arts enthusiast<br>🌍 Arabman in Greece<br><br>🔔 Follow my journey in data, Python, PySpark, and machine learning
 
  
-# 💻 Tech Stack: 
+# 💻 Tech Stack:
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=accusoft&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 
